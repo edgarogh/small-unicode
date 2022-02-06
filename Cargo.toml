@@ -1,0 +1,8 @@
+[package]
+name = "small-unicode"
+version = "0.1.0"
+authors = ["Edgar Onghena <dev@edgar.bzh>"]
+edition = "2021"
+
+[dependencies]
+unicode_names2 = "0.4.0"
